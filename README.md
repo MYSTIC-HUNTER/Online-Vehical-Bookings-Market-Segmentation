@@ -1,4 +1,4 @@
-# Online-Vehical-Bookings-Market-Segmentation
+# Online-Vehicle-Bookings-Market-Segmentation
 
 "🚗 Introducing the Online Vehicle Bookings Project! 🌐
 
